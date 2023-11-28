@@ -1,5 +1,5 @@
 # Elasticsearch Exporter
-> forked from https://github.com/prometheus-community/elasticsearch_exporter
+> my forked from https://github.com/prometheus-community/elasticsearch_exporter
 
 [![CircleCI](https://circleci.com/gh/prometheus-community/elasticsearch_exporter.svg?style=svg)](https://circleci.com/gh/prometheus-community/elasticsearch_exporter)
 [![Go Report Card](https://goreportcard.com/badge/github.com/prometheus-community/elasticsearch_exporter)](https://goreportcard.com/report/github.com/prometheus-community/elasticsearch_exporter)
